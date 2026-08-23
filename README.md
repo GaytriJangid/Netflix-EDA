@@ -1,3 +1,4 @@
+
 # Netflix Exploratory Data Analysis
 
 ## Project Overview
@@ -83,3 +84,4 @@ The analysis includes:
 This exploratory data analysis provides an overview of Netflix's content library and highlights important patterns in content type, release trends, ratings, countries, movie durations, TV show seasons, directors, and cast members.
 
 The project demonstrates practical use of Python, Pandas, NumPy, Matplotlib, and Seaborn for data cleaning, analysis, and visualization.
+
